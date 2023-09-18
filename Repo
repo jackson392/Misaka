@@ -1,11 +1,11 @@
 {
   "name": "Misaka",
-  "identifier": ""com.straight-tamago.misakaRS"",
+  "identifier": "com.straight-tamago.misakaRS",
   "sourceURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/Repo",
   "apps": [
     {
       "name": "Misaka",
-      "bundleIdentifier": ""com.straight-tamago.misakaRS"",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
       "developerName": "straight-tamago",
       "subtitle": "Package Manager for non jailbreak devices.",
       "version": "2.5.1",
