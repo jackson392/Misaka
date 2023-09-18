@@ -30,6 +30,32 @@
       ]
     }
   ],
+ "name": "Misaka Bata release there is no bata right now.",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "developerName": "straight-tamago",
+      "subtitle": "Package Manager for non jailbreak devices.",
+      "version": "2.5.1",
+      "versionDate": "2023-9-07'T'08:13:00",
+      "versionDescription": "FileManager  - Add File  - Zip Extract  - Code Editor + (html, css, js, conf) - IconTheme  - Fixed zip import bug - Fixed a bug that bookmarks were not displayed in light mode - Fixed a bug where Config's image picker would not save files. - Fixed some plist padding errors",
+      "downloadURL": "https://cdn.discordapp.com/attachments/1091743906342895727/1151777100068560976/misaka.ipa",
+      "localizedDescription": "Package Manager for non jailbreak devices. MDC and KFD only.",
+      "iconURL": "https://iosninja.io/img/ipas/misaka.webp",
+      "tintColor": "#0000FF",
+      "size": 77010038,
+      "permissions": [
+        {
+          "type": "Root",
+          "usageDescription": "Apply tweeks."
+        }
+      ],
+      "screenshotURLs": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjEZujWG6_v4uW9KgCZhoA0LJD7YlpvoOvLw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Ry5ahbA2D6QhuArsUUzXLT1ZzZm_n2LHLQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnet2x5-BqZxdtevwiti8ILjq0xTH5xDfYBA&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-oPBHJbelwMUCN2vxZJbuhomKcpQflBdx7A&usqp=CAU",
+      ]
+    }
+  ],
   "news": [
     {
       "title": "Provenance 2.2.1 Beta with PS2, GameCube, Wii and PSP available for early testing.",
