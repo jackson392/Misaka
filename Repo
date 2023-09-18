@@ -9,17 +9,8 @@
       "developerName": "straight-tamago",
       "subtitle": "Package Manager for non jailbreak devices.",
       "version": "2.2.1",
-      "versionDate": "9/7/2023",
-      "versionDescription": "Change log:
-• FileManager
-• Add File
-• Zip Extract
-• Code Editor + (html, ess, js, conf)
-• IconTheme
-• Fixed zip import bug
-• Fixed a bug that bookmarks were not displayed in light mode
-• Fixed a bug where Config's image picker would not save files.
-• Fixed some plist padding errors",
+      "versionDate": "2022-12-30T00:01:00-05:00",
+      "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
       "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
       "localizedDescription": "Multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.",
       "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
