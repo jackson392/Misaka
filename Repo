@@ -10,7 +10,7 @@
       "subtitle": "Package Manager for non jailbreak devices.",
       "version": "2.2.1",
       "versionDate": "2022-12-30T00:01:00-05:00",
-      "versionDescription": "",
+      "versionDescription": "FileManager  - Add File  - Zip Extract  - Code Editor + (html, css, js, conf) - IconTheme  - Fixed zip import bug - Fixed a bug that bookmarks were not displayed in light mode - Fixed a bug where Config's image picker would not save files. - Fixed some plist padding errors",
       "downloadURL": "https://cdn.discordapp.com/attachments/1091743906342895727/1151777100068560976/misaka.ipa",
       "localizedDescription": "Package Manager for non jailbreak devices. MDC and KFD only.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQApf9v2zAgDOJGQ226pGzJDU7K_AUJI7F9Jw&usqp=CAU",
