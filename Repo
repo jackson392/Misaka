@@ -14,7 +14,7 @@
       "downloadURL": "https://cdn.discordapp.com/attachments/1091743906342895727/1151777100068560976/misaka.ipa",
       "localizedDescription": "Package Manager for non jailbreak devices. MDC and KFD only.",
       "iconURL": "https://iosninja.io/img/ipas/misaka.webp",
-      "tintColor": "#162434",
+      "tintColor": "#ADD8E6,
       "size": 77010038,
       "permissions": [
         {
