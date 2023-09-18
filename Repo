@@ -1,11 +1,11 @@
 {
-  "name": "Provenance EMU",
-  "identifier": "org.provenance-emu.AltStore",
+  "name": "Misaka",
+  "identifier": "com.straight-tamago.misakaRS.BXKT2TWT2S",
   "sourceURL": "https://provenance-emu.com/apps.json",
   "apps": [
     {
-      "name": "Provenance EMU",
-      "bundleIdentifier": "org.provenance-emu.provenance",
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS.BXKT2TWT2S",
       "developerName": "Joe Mattiello",
       "subtitle": "Multi-emulator frontend for iOS & tvOS",
       "version": "2.2.1",
