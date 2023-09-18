@@ -1,13 +1,13 @@
 {
   "name": "Misaka",
   "identifier": "com.straight-tamago.misakaRS.BXKT2TWT2S",
-  "sourceURL": "https://provenance-emu.com/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/Repo",
   "apps": [
     {
       "name": "Misaka",
       "bundleIdentifier": "com.straight-tamago.misakaRS.BXKT2TWT2S",
-      "developerName": "Joe Mattiello",
-      "subtitle": "Multi-emulator frontend for iOS & tvOS",
+      "developerName": "straight-tamago",
+      "subtitle": "Package Manager for non jailbreak devices.",
       "version": "2.2.1",
       "versionDate": "2022-12-30T00:01:00-05:00",
       "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
