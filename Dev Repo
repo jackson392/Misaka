@@ -32,7 +32,7 @@
     },
     {
       "name": "Cluckabunga",
-      "bundleIdentifier": "com.odysseyteam.taurine",
+      "bundleIdentifier": "com.leminlimez.Cluckabunga",
       "developerName": "Odyssey Team",
       "subtitle": "KFD Customization Tool for iOS 16.2-16.5 & 16.6b1",
       "version": "2.2",
