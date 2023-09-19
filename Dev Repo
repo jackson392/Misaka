@@ -31,15 +31,33 @@
       ]
     },
     {
-      "name": "Taurine",
+      "name": "Cluckabunga",
       "bundleIdentifier": "com.odysseyteam.taurine",
       "developerName": "Odyssey Team",
-      "subtitle": "An iOS 14.0-14.3 jailbreak.",
-      "version": "1.1.6",
-      "versionDate": "2022-04-20",
-      "versionDescription": "-Fixed arm64e on 14.2 and 14.3",
-      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
-      "localizedDescription": "Taurine is an iOS 14.0-14.3 jailbreak, utilising Procursus and Libhooker.",
+      "subtitle": "KFD Customization Tool for iOS 16.2-16.5 & 16.6b1",
+      "version": "2.2",
+      "versionDate": "2023-09-19",
+      "versionDescription": "Springboard
+
+Hide dock
+Hide home bar
+Hide folder backgrounds
+Locks
+
+Importing locks from TrollLock
+Custom number of frames + custom animation speeds (see below)
+Explore
+
+Find and download themes for locks and passcodes!
+If you would like to submit your own works, please join the discord
+Other Tools
+
+Custom Fonts
+Settings App Customizer
+Apple Cards Changer
+Passcode Key Changer",
+      "downloadURL": "https://github.com/leminlimez/Cluckabunga/releases/download/v2.2/Cluckabunga.ipa",
+      "localizedDescription": "KFD Customization Tool for iOS 16.2-16.5 & 16.6b1",
       "iconURL": "https://taurine.app/assets/images/icon.png",
       "tintColor": "F65656",
       "size": 31500000,
