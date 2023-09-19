@@ -1,5 +1,5 @@
 {
-  "name": "Ios Ipa and tweeks",
+  "name": "My Favourite Apps",
   "identifier": "com.adv.ios.funny.dev",
   "sourceURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/Repo",
   "apps": [
@@ -52,11 +52,10 @@
   ],
   "news": [
 	    {
-      "title": "Odyssey Source",
-      "identifier": "welcome-to-odysseysource",
-      "caption": "It's official. Odyssey Team is distributing via SideStore.",
+      "title": "My Favourite Apps Source",
+      "identifier": "welcome-to-my-favourite-appssource",
+      "caption": "All my favourite IPAs.",
       "tintColor": "D287F4",
-      "url": "https://altstore.theodyssey.dev",
       "date": "2023-07-09T12:59:00-07:00",
       "notify": false
     }
