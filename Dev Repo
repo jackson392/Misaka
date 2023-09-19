@@ -39,25 +39,7 @@
       "versionDate": "2023-09-19",
       "versionDescription": "Added status bar changer Added ability to reset passcode keys in-app",
       "downloadURL": "https://github.com/leminlimez/Cluckabunga/releases/download/v2.2/Cluckabunga.ipa",
-      "localizedDescription": "Springboard
-
-Hide dock
-Hide home bar
-Hide folder backgrounds
-Locks
-
-Importing locks from TrollLock
-Custom number of frames + custom animation speeds (see below)
-Explore
-
-Find and download themes for locks and passcodes!
-If you would like to submit your own works, please join the discord
-Other Tools
-
-Custom Fonts
-Settings App Customizer
-Apple Cards Changer
-Passcode Key Changer",
+      "localizedDescription": "KFD Customization Tool for iOS 16.2-16.5 & 16.6b1",
       "iconURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/AppIcon60x60%402x.png",
       "tintColor": "F65656",
       "size": 31500000,
