@@ -58,7 +58,7 @@ Apple Cards Changer
 Passcode Key Changer",
       "downloadURL": "https://github.com/leminlimez/Cluckabunga/releases/download/v2.2/Cluckabunga.ipa",
       "localizedDescription": "KFD Customization Tool for iOS 16.2-16.5 & 16.6b1",
-      "iconURL": "https://taurine.app/assets/images/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/AppIcon60x60%402x.png",
       "tintColor": "F65656",
       "size": 31500000,
       "beta": false,
