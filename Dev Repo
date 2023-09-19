@@ -1,7 +1,7 @@
 {
-  "name": "Odyssey",
-  "identifier": "dev.theodyssey.sidestore",
-  "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
+  "name": "Ios Ipa and tweeks",
+  "identifier": "com.adv.ios.funny.dev",
+  "sourceURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/Repo",
   "apps": [
     {
        "name": "Misaka",
