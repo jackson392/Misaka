@@ -4,23 +4,30 @@
   "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
   "apps": [
     {
-      "name": "Odyssey",
-      "bundleIdentifier": "org.coolstar.odyssey",
-      "developerName": "Odyssey Team",
-      "subtitle": "An iOS 13.0-13.7 jailbreak.",
-      "version": "1.4.3",
-      "versionDate": "2023-04-03",
-      "versionDescription": "- Update Sileo to 2.3-1",
-      "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
-      "localizedDescription": "Supporting iOS Versions: 13.0 - 13.7.\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
-      "iconURL": "https://theodyssey.dev/assets/images/icon.png",
-      "tintColor": "D287F4",
-      "size": 27200000,
+       "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "developerName": "straight-tamago",
+      "subtitle": "Package Manager for non jailbreak devices.",
+      "version": "2.5.1",
+      "versionDate": "2023-9-07'T'08:13:00",
+      "versionDescription": "FileManager  - Add File  - Zip Extract  - Code Editor + (html, css, js, conf) - IconTheme  - Fixed zip import bug - Fixed a bug that bookmarks were not displayed in light mode - Fixed a bug where Config's image picker would not save files. - Fixed some plist padding errors",
+      "downloadURL": "https://cdn.discordapp.com/attachments/1091743906342895727/1151777100068560976/misaka.ipa",
+      "localizedDescription": "Package Manager for non jailbreak devices. MDC and KFD only.",
+      "iconURL": "https://iosninja.io/img/ipas/misaka.webp",
+      "tintColor": "#0000FF",
+      "size": 77010038,
       "beta": false,
+      "permissions": [
+        {
+          "type": "Root",
+          "usageDescription": "Apply tweeks."
+        }
+      ],
       "screenshotURLs": [
-        "https://theodyssey.dev/assets/images/ss-1.png",
-        "https://theodyssey.dev/assets/images/ss-2.png",
-        "https://theodyssey.dev/assets/images/ss-3.png"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjEZujWG6_v4uW9KgCZhoA0LJD7YlpvoOvLw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Ry5ahbA2D6QhuArsUUzXLT1ZzZm_n2LHLQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnet2x5-BqZxdtevwiti8ILjq0xTH5xDfYBA&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-oPBHJbelwMUCN2vxZJbuhomKcpQflBdx7A&usqp=CAU",
       ]
     },
     {
