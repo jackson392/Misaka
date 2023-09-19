@@ -4,7 +4,7 @@
   "sourceURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/Repo",
   "apps": [
     {
-       "name": "Misaka",
+      "name": "Misaka",
       "bundleIdentifier": "com.straight-tamago.misakaRS",
       "developerName": "straight-tamago",
       "subtitle": "Package Manager for non jailbreak devices.",
@@ -33,7 +33,7 @@
     {
       "name": "Cluckabunga",
       "bundleIdentifier": "com.leminlimez.Cluckabunga",
-      "developerName": "Odyssey Team",
+      "developerName": "leminlimez",
       "subtitle": "KFD Customization Tool for iOS 16.2-16.5 & 16.6b1",
       "version": "2.2",
       "versionDate": "2023-09-19",
