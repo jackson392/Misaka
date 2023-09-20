@@ -1,4 +1,4 @@
-{
+p{
   "name": "My Favourite Apps",
   "identifier": "com.adv.ios.funny.dev",
   "sourceURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/Repo",
@@ -51,7 +51,7 @@
     },
     {
       "name": "PojavLauncher Dev Bata",
-      "bundleIdentifier": "net.kdt.pojavlauncher.BXKT2TWT2S",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
       "developerName": "PojavLauncherTeam",
       "subtitle": "Bringing Minecraft: Java Edition to mobile devices.",
       "version": "3.0",
