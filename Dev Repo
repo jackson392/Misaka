@@ -59,7 +59,7 @@
       "versionDescription": "Added status bar changer Added ability to reset passcode keys in-app",
       "downloadURL": "https://github.com/leminlimez/Cluckabunga/releases/download/v2.2/Cluckabunga.ipa",
       "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project. • Play most versions of Minecraft, from the very first beta to the latest snapshots. • Customize with mods, resource packs, and compatible shaders • Create multiple instances of Minecraft for multiple versions • Adiust on-screen controls to your liking, or use keyboard and mouse or controllers • Play online with full Java Edition servers ..and so much more! Notice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.",
-      "iconURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/AppIcon60x60%402x.png",
+      "iconURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/IMG_0553.png",
       "tintColor": "F65656",
       "size": 31500000,
       "beta": true,
