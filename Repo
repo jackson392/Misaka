@@ -1,6 +1,6 @@
 p{
   "name": "My Favourite Apps",
-  "identifier": "com.adv.ios.funny.dev",
+  "identifier": "com.adv.ios.funny",
   "sourceURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/Repo",
   "apps": [
     {
