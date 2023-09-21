@@ -54,7 +54,7 @@
       "bundleIdentifier": "net.kdt.pojavlauncher",
       "developerName": "PojavLauncherTeam",
       "subtitle": "Bringing Minecraft: Java Edition to mobile devices.",
-      "version": "3.0 b1",
+      "version": "3.0",
       "versionDate": "2023-09-21",
       "versionDescription": "Cleanup[input]: remove glfw window focus state callback",
       "downloadURL": "https://github.com/jackson392/Misaka/releases/download/V3bata1/net.kdt.pojavlauncher-3.0-ios.12.ipa",
