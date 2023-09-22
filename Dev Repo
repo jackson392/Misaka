@@ -11,7 +11,7 @@
       "version": "2.5.1",
       "versionDate": "2023-9-07'T'08:13:00",
       "versionDescription": "FileManager  - Add File  - Zip Extract  - Code Editor + (html, css, js, conf) - IconTheme  - Fixed zip import bug - Fixed a bug that bookmarks were not displayed in light mode - Fixed a bug where Config's image picker would not save files. - Fixed some plist padding errors",
-      "downloadURL": "https://cdn.discordapp.com/attachments/1091743906342895727/1151777100068560976/misaka.ipa",
+      "downloadURL": "https://cdn.discordapp.com/attachments/1091743906342895727/1154437966807183400/misaka-2.5.1.ipa",
       "localizedDescription": "Package Manager for non jailbreak devices. MDC and KFD only.",
       "iconURL": "https://iosninja.io/img/ipas/misaka.webp",
       "tintColor": "#0000FF",
